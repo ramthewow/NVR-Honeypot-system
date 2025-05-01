@@ -1,0 +1,154 @@
+2025-04-30 22:45:51,011 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://172.19.16.155:80
+2025-04-30 22:45:51,011 - [33mPress CTRL+C to quit[0m
+2025-04-30 22:46:02,920 - 127.0.0.1 - - [30/Apr/2025 22:46:02] "GET / HTTP/1.1" 200 -
+2025-04-30 22:46:42,021 - 127.0.0.1 - - [30/Apr/2025 22:46:42] "GET /admin HTTP/1.1" 200 -
+2025-04-30 22:49:11,940 - Login attempt from 127.0.0.1 - Username: 'admin' Password: '123456'
+2025-04-30 22:49:11,941 - 127.0.0.1 - - [30/Apr/2025 22:49:11] "POST / HTTP/1.1" 200 -
+2025-04-30 22:49:13,447 - 127.0.0.1 - - [30/Apr/2025 22:49:13] "GET / HTTP/1.1" 200 -
+2025-04-30 23:35:24,579 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.16.155:5000
+2025-04-30 23:35:24,580 - [33mPress CTRL+C to quit[0m
+2025-04-30 23:35:37,592 - 127.0.0.1 - - [30/Apr/2025 23:35:37] "GET / HTTP/1.1" 200 -
+2025-04-30 23:35:51,025 - 127.0.0.1 - - [30/Apr/2025 23:35:51] "GET / HTTP/1.1" 200 -
+2025-04-30 23:35:51,148 - 127.0.0.1 - - [30/Apr/2025 23:35:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-30 23:36:07,885 - 127.0.0.1 - - [30/Apr/2025 23:36:07] "GET / HTTP/1.1" 200 -
+2025-04-30 23:38:45,835 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.16.155:5000
+2025-04-30 23:38:45,835 - [33mPress CTRL+C to quit[0m
+2025-04-30 23:38:47,397 - 127.0.0.1 - - [30/Apr/2025 23:38:47] "GET / HTTP/1.1" 200 -
+2025-04-30 23:39:22,013 - Login attempt from 127.0.0.1 - Username: 'orangeJuiceAddict' Password: 'citrus' User-Agent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0'
+2025-04-30 23:39:22,014 - 127.0.0.1 - - [30/Apr/2025 23:39:22] "POST / HTTP/1.1" 200 -
+2025-04-30 23:39:37,316 - 127.0.0.1 - - [30/Apr/2025 23:39:37] "POST / HTTP/1.1" 200 -
+2025-04-30 23:43:18,726 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.16.155:5000
+2025-04-30 23:43:18,726 - [33mPress CTRL+C to quit[0m
+2025-04-30 23:55:58,550 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.16.155:5000
+2025-04-30 23:55:58,551 - [33mPress CTRL+C to quit[0m
+2025-04-30 23:56:03,173 - 127.0.0.1 - - [30/Apr/2025 23:56:03] "GET / HTTP/1.1" 200 -
+2025-04-30 23:56:26,686 - Login attempt from 127.0.0.1 - Username: 'orangeJuiceAddict' Password: 'citrus'
+2025-04-30 23:56:26,688 - 127.0.0.1 - - [30/Apr/2025 23:56:26] "POST / HTTP/1.1" 200 -
+2025-04-30 23:56:35,967 - Login attempt from 127.0.0.1 - Username: 'admin' Password: '123456'
+2025-04-30 23:56:35,968 - 127.0.0.1 - - [30/Apr/2025 23:56:35] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-30 23:56:35,975 - Exception on /dashboard [GET]
+Traceback (most recent call last):
+  File "C:\Users\ramve\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\ramve\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\ramve\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\ramve\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\ramve\Desktop\rnd_aio2\main.py", line 145, in dashboard
+    return render_template('dashboard.html', ports=NVR_PORTS)
+  File "C:\Users\ramve\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\ramve\AppData\Local\Programs\Python\Python313\Lib\site-packages\jinja2\environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ramve\AppData\Local\Programs\Python\Python313\Lib\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\ramve\AppData\Local\Programs\Python\Python313\Lib\site-packages\jinja2\environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\ramve\AppData\Local\Programs\Python\Python313\Lib\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ramve\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ramve\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: dashboard.html
+2025-04-30 23:56:35,995 - 127.0.0.1 - - [30/Apr/2025 23:56:35] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+2025-05-01 00:00:16,348 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://172.19.16.155:80
+2025-05-01 00:00:16,349 - [33mPress CTRL+C to quit[0m
+2025-05-01 00:00:23,895 - 127.0.0.1 - - [01/May/2025 00:00:23] "GET / HTTP/1.1" 200 -
+2025-05-01 00:07:51,719 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://172.19.16.155:80
+2025-05-01 00:07:51,719 - [33mPress CTRL+C to quit[0m
+2025-05-01 00:08:25,839 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://172.19.16.155:80
+2025-05-01 00:08:25,839 - [33mPress CTRL+C to quit[0m
+2025-05-01 00:08:31,740 - Login attempt from 127.0.0.1 - Username: 'ram_v_menon' Password: 'ram'
+2025-05-01 00:08:31,745 - 127.0.0.1 - - [01/May/2025 00:08:31] "POST / HTTP/1.1" 200 -
+2025-05-01 00:09:02,692 - 172.19.16.155 - - [01/May/2025 00:09:02] "GET / HTTP/1.0" 200 -
+2025-05-01 00:09:06,229 - 172.19.16.155 - - [01/May/2025 00:09:06] "GET / HTTP/1.1" 200 -
+2025-05-01 00:09:06,229 - 172.19.16.155 - - [01/May/2025 00:09:06] "[33mPOST /sdk HTTP/1.1[0m" 404 -
+2025-05-01 00:09:06,229 - 172.19.16.155 - - [01/May/2025 00:09:06] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:09:06,230 - 172.19.16.155 - - [01/May/2025 00:09:06] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:09:06,230 - 172.19.16.155 - - [01/May/2025 00:09:06] "[33mGET /nmaplowercheck1746038345 HTTP/1.1[0m" 404 -
+2025-05-01 00:09:06,230 - 172.19.16.155 - - [01/May/2025 00:09:06] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:09:06,231 - Login attempt from 172.19.16.155 - Username: '' Password: ''
+2025-05-01 00:09:06,232 - 172.19.16.155 - - [01/May/2025 00:09:06] "GET / HTTP/1.0" 200 -
+2025-05-01 00:09:06,232 - 172.19.16.155 - - [01/May/2025 00:09:06] "[33mGET /.git/HEAD HTTP/1.1[0m" 404 -
+2025-05-01 00:09:06,232 - 172.19.16.155 - - [01/May/2025 00:09:06] "[31m[1mPROPFIND / HTTP/1.1[0m" 405 -
+2025-05-01 00:09:06,233 - 172.19.16.155 - - [01/May/2025 00:09:06] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-05-01 00:09:06,233 - 172.19.16.155 - - [01/May/2025 00:09:06] "[31m[1mPROPFIND / HTTP/1.1[0m" 405 -
+2025-05-01 00:09:06,235 - 172.19.16.155 - - [01/May/2025 00:09:06] "POST / HTTP/1.1" 200 -
+2025-05-01 00:09:06,247 - 172.19.16.155 - - [01/May/2025 00:09:06] "[31m[1mPROPFIND / HTTP/1.1[0m" 405 -
+2025-05-01 00:09:06,248 - 172.19.16.155 - - [01/May/2025 00:09:06] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:09:06,248 - 172.19.16.155 - - [01/May/2025 00:09:06] "[33mGET /HNAP1 HTTP/1.1[0m" 404 -
+2025-05-01 00:09:06,249 - 172.19.16.155 - - [01/May/2025 00:09:06] "[31m[1mWXAH / HTTP/1.1[0m" 405 -
+2025-05-01 00:09:06,250 - 172.19.16.155 - - [01/May/2025 00:09:06] "[33mGET /evox/about HTTP/1.1[0m" 404 -
+2025-05-01 00:09:06,253 - 172.19.16.155 - - [01/May/2025 00:09:06] "GET / HTTP/1.1" 200 -
+2025-05-01 00:09:06,254 - 172.19.16.155 - - [01/May/2025 00:09:06] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:09:06,261 - 172.19.16.155 - - [01/May/2025 00:09:06] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:09:06,265 - 172.19.16.155 - - [01/May/2025 00:09:06] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:09:06,265 - 172.19.16.155 - - [01/May/2025 00:09:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-01 00:09:06,270 - 172.19.16.155 - - [01/May/2025 00:09:06] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:09:06,276 - 172.19.16.155 - - [01/May/2025 00:09:06] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:09:06,282 - 172.19.16.155 - - [01/May/2025 00:09:06] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:09:06,287 - 172.19.16.155 - - [01/May/2025 00:09:06] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:09:06,293 - 172.19.16.155 - - [01/May/2025 00:09:06] "GET / HTTP/1.0" 200 -
+2025-05-01 00:09:06,298 - 172.19.16.155 - - [01/May/2025 00:09:06] "GET / HTTP/1.1" 200 -
+2025-05-01 00:10:52,776 - 172.19.16.155 - - [01/May/2025 00:10:52] "GET / HTTP/1.0" 200 -
+2025-05-01 00:10:56,337 - 172.19.16.155 - - [01/May/2025 00:10:56] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:10:56,338 - Login attempt from 172.19.16.155 - Username: '' Password: ''
+2025-05-01 00:10:56,339 - 172.19.16.155 - - [01/May/2025 00:10:56] "[33mGET /nmaplowercheck1746038456 HTTP/1.1[0m" 404 -
+2025-05-01 00:10:56,339 - 172.19.16.155 - - [01/May/2025 00:10:56] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:10:56,341 - 172.19.16.155 - - [01/May/2025 00:10:56] "POST / HTTP/1.1" 200 -
+2025-05-01 00:10:56,342 - 172.19.16.155 - - [01/May/2025 00:10:56] "GET / HTTP/1.0" 200 -
+2025-05-01 00:10:56,342 - 172.19.16.155 - - [01/May/2025 00:10:56] "[33mGET /.git/HEAD HTTP/1.1[0m" 404 -
+2025-05-01 00:10:56,343 - 172.19.16.155 - - [01/May/2025 00:10:56] "GET / HTTP/1.1" 200 -
+2025-05-01 00:10:56,343 - 172.19.16.155 - - [01/May/2025 00:10:56] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-05-01 00:10:56,344 - 172.19.16.155 - - [01/May/2025 00:10:56] "[33mPOST /sdk HTTP/1.1[0m" 404 -
+2025-05-01 00:10:56,344 - 172.19.16.155 - - [01/May/2025 00:10:56] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:10:56,346 - 172.19.16.155 - - [01/May/2025 00:10:56] "[31m[1mPROPFIND / HTTP/1.1[0m" 405 -
+2025-05-01 00:10:56,346 - 172.19.16.155 - - [01/May/2025 00:10:56] "[31m[1mPROPFIND / HTTP/1.1[0m" 405 -
+2025-05-01 00:10:56,366 - 172.19.16.155 - - [01/May/2025 00:10:56] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:10:56,368 - 172.19.16.155 - - [01/May/2025 00:10:56] "[33mGET /HNAP1 HTTP/1.1[0m" 404 -
+2025-05-01 00:10:56,368 - 172.19.16.155 - - [01/May/2025 00:10:56] "[31m[1mJMXX / HTTP/1.1[0m" 405 -
+2025-05-01 00:10:56,369 - 172.19.16.155 - - [01/May/2025 00:10:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-01 00:10:56,370 - 172.19.16.155 - - [01/May/2025 00:10:56] "[31m[1mPROPFIND / HTTP/1.1[0m" 405 -
+2025-05-01 00:10:56,373 - 172.19.16.155 - - [01/May/2025 00:10:56] "[33mGET /evox/about HTTP/1.1[0m" 404 -
+2025-05-01 00:10:56,384 - 172.19.16.155 - - [01/May/2025 00:10:56] "GET / HTTP/1.1" 200 -
+2025-05-01 00:10:56,384 - 172.19.16.155 - - [01/May/2025 00:10:56] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:10:56,391 - 172.19.16.155 - - [01/May/2025 00:10:56] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:10:56,395 - 172.19.16.155 - - [01/May/2025 00:10:56] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:10:56,402 - 172.19.16.155 - - [01/May/2025 00:10:56] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:10:56,407 - 172.19.16.155 - - [01/May/2025 00:10:56] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:10:56,414 - 172.19.16.155 - - [01/May/2025 00:10:56] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:10:56,420 - 172.19.16.155 - - [01/May/2025 00:10:56] "OPTIONS / HTTP/1.1" 200 -
+2025-05-01 00:10:56,427 - 172.19.16.155 - - [01/May/2025 00:10:56] "GET / HTTP/1.0" 200 -
+2025-05-01 00:10:56,432 - 172.19.16.155 - - [01/May/2025 00:10:56] "GET / HTTP/1.1" 200 -

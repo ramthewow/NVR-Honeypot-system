@@ -1,0 +1,240 @@
+{"timestamp": "2025-04-29T08:43:09.990361", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20600, "data": "No data received"}
+{"timestamp": "2025-04-29T08:43:12.139467", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20604, "data": "No data received (timeout)"}
+{"timestamp": "2025-04-29T08:43:21.763608", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20654, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-04-29T08:43:22.471888", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20677, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-29T08:43:22.634743", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20689, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-29T08:43:22.951880", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20696, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-29T08:43:23.132243", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20701, "data": "No data received"}
+{"timestamp": "2025-04-29T08:43:26.744242", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20716, "data": "JDWP-Handshake"}
+{"timestamp": "2025-04-29T08:43:43.921051", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20730, "data": "No data received"}
+{"timestamp": "2025-04-29T08:43:46.044021", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20733, "data": "No data received (timeout)"}
+{"timestamp": "2025-04-29T08:43:54.511032", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20768, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-29T08:43:54.686169", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20778, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-29T08:43:54.740528", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20780, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-04-29T08:43:54.852085", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20790, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-29T08:43:55.014856", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20796, "data": "No data received"}
+{"timestamp": "2025-04-29T08:43:59.764848", "protocol": "RTSP", "ip": "172.19.16.155", "port": 20831, "data": "JDWP-Handshake"}
+{"timestamp": "2025-04-30T13:43:50.967952", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6225, "data": "No data received"}
+{"timestamp": "2025-04-30T13:43:53.085590", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6228, "data": "No data received (timeout)"}
+{"timestamp": "2025-04-30T13:44:00.716612", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6264, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T13:44:00.889576", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6282, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T13:44:01.057480", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6293, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T13:44:01.217507", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6302, "data": "No data received"}
+{"timestamp": "2025-04-30T13:44:01.274322", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6308, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-04-30T13:44:05.741466", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6341, "data": "JDWP-Handshake"}
+{"timestamp": "2025-04-30T13:44:31.779398", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6361, "data": "No data received"}
+{"timestamp": "2025-04-30T13:44:33.888723", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6365, "data": "No data received (timeout)"}
+{"timestamp": "2025-04-30T13:44:41.537616", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6396, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-04-30T13:44:41.538424", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6399, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T13:44:41.703066", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6408, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T13:44:41.869747", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6420, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T13:44:42.035334", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6430, "data": "No data received"}
+{"timestamp": "2025-04-30T13:44:46.535426", "protocol": "RTSP", "ip": "172.19.16.155", "port": 6467, "data": "JDWP-Handshake"}
+[2025-04-30T18:12:02.831693] [RTSP] 172.19.16.155:554 - b'GET / HTTP/1.0\r\n\r\n'
+[2025-04-30T18:12:02.834537] [RTSP] 172.19.16.155:554 - b'OPTIONS / RTSP/1.0\r\n\r\n'
+[2025-04-30T18:12:02.836120] [RTSP] 172.19.16.155:554 - b'\r\n\r\n'
+[2025-04-30T18:12:02.837737] [RTSP] 172.19.16.155:554 - b'OPTIONS / HTTP/1.0\r\n\r\n'
+[2025-04-30T18:12:02.839207] [RTSP] 172.19.16.155:554 - b'\x80\x00\x00(r\xfe\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86\xa0\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:12:02.841295] [RTSP] 172.19.16.155:554 - b'\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03'
+[2025-04-30T18:12:02.843158] [RTSP] 172.19.16.155:554 - b'\x00\x0c\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:12:02.845475] [RTSP] 172.19.16.155:554 - b'HELP\r\n'
+[2025-04-30T18:12:02.847273] [RTSP] 172.19.16.155:554 - b'\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G\xd7\xf7\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00\n\x00f\x00\x05\x00\x04\x00e\x00d\x00c\x00b\x00a\x00`\x00\x15\x00\x12\x00\t\x00\x14\x00\x11\x00\x08\x00\x06\x00\x03\x01\x00'
+[2025-04-30T18:12:02.848726] [RTSP] 172.19.16.155:554 - b'\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie: mstshash=nmap\r\n\x01\x00\x08\x00\x03\x00\x00\x00'
+[2025-04-30T18:12:02.850833] [RTSP] 172.19.16.155:554 - b'\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c\xa7\xe4random1random2random3random4\x00\x00\x0c\x00/\x00\n\x00\x13\x009\x00\x04\x00\xff\x01\x00\x000\x00\r\x00,\x00*\x00\x01\x00\x03\x00\x02\x06\x01\x06\x03\x06\x02\x02\x01\x02\x03\x02\x02\x03\x01\x03\x03\x03\x02\x04\x01\x04\x03\x04\x02\x01\x01'
+[2025-04-30T18:12:02.854084] [RTSP] 172.19.16.155:554 - b'\x00\x00\x00qj\x81n0\x81k\xa1\x03\x02\x01\x05\xa2\x03\x02\x01\n\xa4\x81^0\\\xa0\x07\x03\x05\x00P\x80\x00\x10\xa2\x04\x1b\x02NM\xa3\x170\x15\xa0\x03\x02\x01\x00\xa1\x0e0\x0c\x1b\x06krbtgt\x1b\x02NM\xa5\x11\x18\x0f19700101000000Z\xa7\x06\x02\x04\x1f\x1e\xb9\xd9\xa8\x170\x15\x02\x01\x12\x02'
+[2025-04-30T18:12:02.856492] [RTSP] 172.19.16.155:554 - b'\x00\x00\x00\xa4\xffSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT N'
+[2025-04-30T18:12:02.859501] [RTSP] 172.19.16.155:554 - b'l\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:12:02.861375] [RTSP] 172.19.16.155:554 - b'GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0\r\n\r\n'
+[2025-04-30T18:12:02.863297] [RTSP] 172.19.16.155:554 - b'\x01default\n'
+[2025-04-30T18:12:02.865130] [RTSP] 172.19.16.155:554 - b'0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00\n\x01\x00\n\x01\x00\x02\x01\x00\x02\x01d\x01\x01\x00\x87\x0bobjectClass0\x84\x00\x00\x00\x00'
+[2025-04-30T18:12:02.867121] [RTSP] 172.19.16.155:554 - b'0\x0c\x02\x01\x01`\x07\x02\x01\x02\x04\x00\x80\x00'
+[2025-04-30T18:12:02.869458] [RTSP] 172.19.16.155:554 - b'OPTIONS sip:nm SIP/2.0\r\nVia: SIP/2.0/TCP nm;branch=foo\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2'
+[2025-04-30T18:12:02.871614] [RTSP] 172.19.16.155:554 - b'TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00'
+[2025-04-30T18:12:02.873966] [RTSP] 172.19.16.155:554 - b'\x03\x00\x00\x0b\x06\xe0\x00\x00\x00\x00\x00'
+[2025-04-30T18:12:02.875882] [RTSP] 172.19.16.155:554 - b'DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00\xff\x01\xff\x13'
+[2025-04-30T18:12:02.877916] [RTSP] 172.19.16.155:554 - b':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x1f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:12:02.882145] [RTSP] 172.19.16.155:554 - b'JRMI\x00\x02K'
+[2025-04-30T18:12:02.883993] [RTSP] 172.19.16.155:554 - b'\x01\x00\x00\xfd\xce\xfa\x0b\xb0\xa0\x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00\xf0\xf0\xf0\xf0\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000'
+[2025-04-30T18:12:02.885996] [RTSP] 172.19.16.155:554 - b'\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7f\xff\x7f\x08\x00\x00\x00\x01\x00 \x00:\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x004\xe6\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00(CONNECT_DATA=(COMMAND=version))'
+[2025-04-30T18:12:02.887783] [RTSP] 172.19.16.155:554 - b'\x12\x01\x004\x00\x00\x00\x00\x00\x00\x15\x00\x06\x01\x00\x1b\x00\x01\x02\x00\x1c\x00\x0c\x03\x00(\x00\x04\xff\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00'
+[2025-04-30T18:12:02.889779] [RTSP] 172.19.16.155:554 - b'\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00'
+[2025-04-30T18:12:02.891265] [RTSP] 172.19.16.155:554 - b'GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00'
+[2025-04-30T18:12:07.468049] [RTSP] 172.19.16.155:554 - b'OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n'
+[2025-04-30T18:12:07.539915] [RTSP] 172.19.16.155:554 - b'OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n'
+[2025-04-30T18:12:07.545850] [RTSP] 172.19.16.155:554 - b'OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n'
+[2025-04-30T18:12:07.558365] [RTSP] 172.19.16.155:554 - b'\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c\xa7\xe4random1random2random3random4\x00\x00\x0c\x00/\x00\n\x00\x13\x009\x00\x04\x00\xff\x01\x00\x000\x00\r\x00,\x00*\x00\x01\x00\x03\x00\x02\x06\x01\x06\x03\x06\x02\x02\x01\x02\x03\x02\x02\x03\x01\x03\x03\x03\x02\x04\x01\x04\x03\x04\x02\x01\x01'
+[2025-04-30T18:12:07.564745] [RTSP] 172.19.16.155:554 - b'\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G\xd7\xf7\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00\n\x00f\x00\x05\x00\x04\x00e\x00d\x00c\x00b\x00a\x00`\x00\x15\x00\x12\x00\t\x00\x14\x00\x11\x00\x08\x00\x06\x00\x03\x01\x00'
+[2025-04-30T18:12:07.939048] [RTSP] 172.19.16.155:554 - b'\x80\x00\x00()J\x9b\xf0\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86\xa0\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:12:48.788465] [RTSP] 172.19.16.155:554 - b'GET / HTTP/1.0\r\n\r\n'
+[2025-04-30T18:12:48.792966] [RTSP] 172.19.16.155:554 - b'OPTIONS / RTSP/1.0\r\n\r\n'
+[2025-04-30T18:12:48.797543] [RTSP] 172.19.16.155:554 - b'\r\n\r\n'
+[2025-04-30T18:12:48.807509] [RTSP] 172.19.16.155:554 - b'OPTIONS / HTTP/1.0\r\n\r\n'
+[2025-04-30T18:12:48.825859] [RTSP] 172.19.16.155:554 - b'\x80\x00\x00(r\xfe\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86\xa0\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:12:48.834031] [RTSP] 172.19.16.155:554 - b'\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03'
+[2025-04-30T18:12:48.840554] [RTSP] 172.19.16.155:554 - b'\x00\x0c\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:12:48.848057] [RTSP] 172.19.16.155:554 - b'HELP\r\n'
+[2025-04-30T18:12:48.854648] [RTSP] 172.19.16.155:554 - b'\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G\xd7\xf7\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00\n\x00f\x00\x05\x00\x04\x00e\x00d\x00c\x00b\x00a\x00`\x00\x15\x00\x12\x00\t\x00\x14\x00\x11\x00\x08\x00\x06\x00\x03\x01\x00'
+[2025-04-30T18:12:48.860708] [RTSP] 172.19.16.155:554 - b'\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie: mstshash=nmap\r\n\x01\x00\x08\x00\x03\x00\x00\x00'
+[2025-04-30T18:12:48.868101] [RTSP] 172.19.16.155:554 - b'\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c\xa7\xe4random1random2random3random4\x00\x00\x0c\x00/\x00\n\x00\x13\x009\x00\x04\x00\xff\x01\x00\x000\x00\r\x00,\x00*\x00\x01\x00\x03\x00\x02\x06\x01\x06\x03\x06\x02\x02\x01\x02\x03\x02\x02\x03\x01\x03\x03\x03\x02\x04\x01\x04\x03\x04\x02\x01\x01'
+[2025-04-30T18:12:48.880185] [RTSP] 172.19.16.155:554 - b'\x00\x00\x00qj\x81n0\x81k\xa1\x03\x02\x01\x05\xa2\x03\x02\x01\n\xa4\x81^0\\\xa0\x07\x03\x05\x00P\x80\x00\x10\xa2\x04\x1b\x02NM\xa3\x170\x15\xa0\x03\x02\x01\x00\xa1\x0e0\x0c\x1b\x06krbtgt\x1b\x02NM\xa5\x11\x18\x0f19700101000000Z\xa7\x06\x02\x04\x1f\x1e\xb9\xd9\xa8\x170\x15\x02\x01\x12\x02'
+[2025-04-30T18:12:48.886266] [RTSP] 172.19.16.155:554 - b'\x00\x00\x00\xa4\xffSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT N'
+[2025-04-30T18:12:48.892335] [RTSP] 172.19.16.155:554 - b'l\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:12:48.901661] [RTSP] 172.19.16.155:554 - b'GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0\r\n\r\n'
+[2025-04-30T18:12:48.908230] [RTSP] 172.19.16.155:554 - b'\x01default\n'
+[2025-04-30T18:12:48.914108] [RTSP] 172.19.16.155:554 - b'0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00\n\x01\x00\n\x01\x00\x02\x01\x00\x02\x01d\x01\x01\x00\x87\x0bobjectClass0\x84\x00\x00\x00\x00'
+[2025-04-30T18:12:48.921126] [RTSP] 172.19.16.155:554 - b'0\x0c\x02\x01\x01`\x07\x02\x01\x02\x04\x00\x80\x00'
+[2025-04-30T18:12:48.927733] [RTSP] 172.19.16.155:554 - b'OPTIONS sip:nm SIP/2.0\r\nVia: SIP/2.0/TCP nm;branch=foo\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2'
+[2025-04-30T18:12:48.933837] [RTSP] 172.19.16.155:554 - b'TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00'
+[2025-04-30T18:12:48.937823] [RTSP] 172.19.16.155:554 - b'\x03\x00\x00\x0b\x06\xe0\x00\x00\x00\x00\x00'
+[2025-04-30T18:12:48.942120] [RTSP] 172.19.16.155:554 - b'DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00\xff\x01\xff\x13'
+[2025-04-30T18:12:48.946187] [RTSP] 172.19.16.155:554 - b':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x1f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:12:48.950149] [RTSP] 172.19.16.155:554 - b'JRMI\x00\x02K'
+[2025-04-30T18:12:48.953284] [RTSP] 172.19.16.155:554 - b'\x01\x00\x00\xfd\xce\xfa\x0b\xb0\xa0\x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00\xf0\xf0\xf0\xf0\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000'
+[2025-04-30T18:12:48.957268] [RTSP] 172.19.16.155:554 - b'\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7f\xff\x7f\x08\x00\x00\x00\x01\x00 \x00:\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x004\xe6\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00(CONNECT_DATA=(COMMAND=version))'
+[2025-04-30T18:12:48.960958] [RTSP] 172.19.16.155:554 - b'\x12\x01\x004\x00\x00\x00\x00\x00\x00\x15\x00\x06\x01\x00\x1b\x00\x01\x02\x00\x1c\x00\x0c\x03\x00(\x00\x04\xff\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00'
+[2025-04-30T18:12:48.965428] [RTSP] 172.19.16.155:554 - b'\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00'
+[2025-04-30T18:12:48.967772] [RTSP] 172.19.16.155:554 - b'GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00'
+[2025-04-30T18:12:53.683253] [RTSP] 172.19.16.155:554 - b'OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n'
+[2025-04-30T18:12:53.743369] [RTSP] 172.19.16.155:554 - b'OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n'
+[2025-04-30T18:12:53.748359] [RTSP] 172.19.16.155:554 - b'OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n'
+[2025-04-30T18:12:53.780451] [RTSP] 172.19.16.155:554 - b'\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c\xa7\xe4random1random2random3random4\x00\x00\x0c\x00/\x00\n\x00\x13\x009\x00\x04\x00\xff\x01\x00\x000\x00\r\x00,\x00*\x00\x01\x00\x03\x00\x02\x06\x01\x06\x03\x06\x02\x02\x01\x02\x03\x02\x02\x03\x01\x03\x03\x03\x02\x04\x01\x04\x03\x04\x02\x01\x01'
+[2025-04-30T18:12:53.786870] [RTSP] 172.19.16.155:554 - b'\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G\xd7\xf7\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00\n\x00f\x00\x05\x00\x04\x00e\x00d\x00c\x00b\x00a\x00`\x00\x15\x00\x12\x00\t\x00\x14\x00\x11\x00\x08\x00\x06\x00\x03\x01\x00'
+[2025-04-30T18:12:54.309549] [RTSP] 172.19.16.155:554 - b'\x80\x00\x00($\xecJ\xfb\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86\xa0\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:13:44.082978] [RTSP] 172.19.16.155:554 - b'GET / HTTP/1.0\r\n\r\n'
+[2025-04-30T18:13:44.096337] [RTSP] 172.19.16.155:554 - b'OPTIONS / RTSP/1.0\r\n\r\n'
+[2025-04-30T18:13:44.111662] [RTSP] 172.19.16.155:554 - b'\r\n\r\n'
+[2025-04-30T18:13:44.115666] [RTSP] 172.19.16.155:554 - b'OPTIONS / HTTP/1.0\r\n\r\n'
+[2025-04-30T18:13:44.119776] [RTSP] 172.19.16.155:554 - b'\x80\x00\x00(r\xfe\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86\xa0\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:13:44.123678] [RTSP] 172.19.16.155:554 - b'\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03'
+[2025-04-30T18:13:44.126400] [RTSP] 172.19.16.155:554 - b'\x00\x0c\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:13:44.129453] [RTSP] 172.19.16.155:554 - b'HELP\r\n'
+[2025-04-30T18:13:44.134088] [RTSP] 172.19.16.155:554 - b'\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G\xd7\xf7\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00\n\x00f\x00\x05\x00\x04\x00e\x00d\x00c\x00b\x00a\x00`\x00\x15\x00\x12\x00\t\x00\x14\x00\x11\x00\x08\x00\x06\x00\x03\x01\x00'
+[2025-04-30T18:13:44.138060] [RTSP] 172.19.16.155:554 - b'\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie: mstshash=nmap\r\n\x01\x00\x08\x00\x03\x00\x00\x00'
+[2025-04-30T18:13:44.141917] [RTSP] 172.19.16.155:554 - b'\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c\xa7\xe4random1random2random3random4\x00\x00\x0c\x00/\x00\n\x00\x13\x009\x00\x04\x00\xff\x01\x00\x000\x00\r\x00,\x00*\x00\x01\x00\x03\x00\x02\x06\x01\x06\x03\x06\x02\x02\x01\x02\x03\x02\x02\x03\x01\x03\x03\x03\x02\x04\x01\x04\x03\x04\x02\x01\x01'
+[2025-04-30T18:13:44.146775] [RTSP] 172.19.16.155:554 - b'\x00\x00\x00qj\x81n0\x81k\xa1\x03\x02\x01\x05\xa2\x03\x02\x01\n\xa4\x81^0\\\xa0\x07\x03\x05\x00P\x80\x00\x10\xa2\x04\x1b\x02NM\xa3\x170\x15\xa0\x03\x02\x01\x00\xa1\x0e0\x0c\x1b\x06krbtgt\x1b\x02NM\xa5\x11\x18\x0f19700101000000Z\xa7\x06\x02\x04\x1f\x1e\xb9\xd9\xa8\x170\x15\x02\x01\x12\x02'
+[2025-04-30T18:13:44.150257] [RTSP] 172.19.16.155:554 - b'\x00\x00\x00\xa4\xffSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT N'
+[2025-04-30T18:13:44.154671] [RTSP] 172.19.16.155:554 - b'l\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:13:44.160363] [RTSP] 172.19.16.155:554 - b'GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0\r\n\r\n'
+[2025-04-30T18:13:44.164140] [RTSP] 172.19.16.155:554 - b'\x01default\n'
+[2025-04-30T18:13:44.167741] [RTSP] 172.19.16.155:554 - b'0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00\n\x01\x00\n\x01\x00\x02\x01\x00\x02\x01d\x01\x01\x00\x87\x0bobjectClass0\x84\x00\x00\x00\x00'
+[2025-04-30T18:13:44.172127] [RTSP] 172.19.16.155:554 - b'0\x0c\x02\x01\x01`\x07\x02\x01\x02\x04\x00\x80\x00'
+[2025-04-30T18:13:44.175845] [RTSP] 172.19.16.155:554 - b'OPTIONS sip:nm SIP/2.0\r\nVia: SIP/2.0/TCP nm;branch=foo\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2'
+[2025-04-30T18:13:44.178524] [RTSP] 172.19.16.155:554 - b'TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00'
+[2025-04-30T18:13:44.181198] [RTSP] 172.19.16.155:554 - b'\x03\x00\x00\x0b\x06\xe0\x00\x00\x00\x00\x00'
+[2025-04-30T18:13:44.183641] [RTSP] 172.19.16.155:554 - b'DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00\xff\x01\xff\x13'
+[2025-04-30T18:13:44.186371] [RTSP] 172.19.16.155:554 - b':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x1f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[2025-04-30T18:13:44.189228] [RTSP] 172.19.16.155:554 - b'JRMI\x00\x02K'
+[2025-04-30T18:13:44.191772] [RTSP] 172.19.16.155:554 - b'\x01\x00\x00\xfd\xce\xfa\x0b\xb0\xa0\x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00\xf0\xf0\xf0\xf0\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000'
+[2025-04-30T18:13:44.194624] [RTSP] 172.19.16.155:554 - b'\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7f\xff\x7f\x08\x00\x00\x00\x01\x00 \x00:\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x004\xe6\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00(CONNECT_DATA=(COMMAND=version))'
+[2025-04-30T18:13:44.197465] [RTSP] 172.19.16.155:554 - b'\x12\x01\x004\x00\x00\x00\x00\x00\x00\x15\x00\x06\x01\x00\x1b\x00\x01\x02\x00\x1c\x00\x0c\x03\x00(\x00\x04\xff\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00'
+[2025-04-30T18:13:44.200464] [RTSP] 172.19.16.155:554 - b'\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00'
+[2025-04-30T18:13:44.203231] [RTSP] 172.19.16.155:554 - b'GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00'
+[2025-04-30T18:13:49.797522] [RTSP] 172.19.16.155:554 - b'OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n'
+[2025-04-30T18:13:49.878596] [RTSP] 172.19.16.155:554 - b'OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n'
+[2025-04-30T18:13:49.883730] [RTSP] 172.19.16.155:554 - b'OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n'
+[2025-04-30T18:13:49.885953] [RTSP] 172.19.16.155:554 - b'\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c\xa7\xe4random1random2random3random4\x00\x00\x0c\x00/\x00\n\x00\x13\x009\x00\x04\x00\xff\x01\x00\x000\x00\r\x00,\x00*\x00\x01\x00\x03\x00\x02\x06\x01\x06\x03\x06\x02\x02\x01\x02\x03\x02\x02\x03\x01\x03\x03\x03\x02\x04\x01\x04\x03\x04\x02\x01\x01'
+[2025-04-30T18:13:49.893555] [RTSP] 172.19.16.155:554 - b'\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G\xd7\xf7\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00\n\x00f\x00\x05\x00\x04\x00e\x00d\x00c\x00b\x00a\x00`\x00\x15\x00\x12\x00\t\x00\x14\x00\x11\x00\x08\x00\x06\x00\x03\x01\x00'
+[2025-04-30T18:13:50.631802] [RTSP] 172.19.16.155:554 - b'\x80\x00\x00( V\x18\x1d\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86\xa0\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+{"timestamp": "2025-04-30T18:55:19.103351", "protocol": "RTSP", "ip": "172.19.16.155", "port": 51277, "data": "No data received"}
+{"timestamp": "2025-04-30T18:55:21.208703", "protocol": "RTSP", "ip": "172.19.16.155", "port": 51279, "data": "No data received (timeout)"}
+{"timestamp": "2025-04-30T18:55:28.866451", "protocol": "RTSP", "ip": "172.19.16.155", "port": 51310, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-04-30T18:55:29.071337", "protocol": "RTSP", "ip": "172.19.16.155", "port": 51328, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T18:55:29.228824", "protocol": "RTSP", "ip": "172.19.16.155", "port": 51335, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T18:55:29.387695", "protocol": "RTSP", "ip": "172.19.16.155", "port": 51344, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T18:55:29.549144", "protocol": "RTSP", "ip": "172.19.16.155", "port": 51352, "data": "No data received"}
+{"timestamp": "2025-04-30T18:55:33.893761", "protocol": "RTSP", "ip": "172.19.16.155", "port": 51373, "data": "JDWP-Handshake"}
+{"timestamp": "2025-04-30T18:56:46.132811", "protocol": "RTSP", "ip": "172.19.16.155", "port": 51455, "data": "No data received"}
+{"timestamp": "2025-04-30T18:57:46.383992", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53440, "data": "No data received"}
+{"timestamp": "2025-04-30T18:57:48.485111", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53444, "data": "No data received (timeout)"}
+{"timestamp": "2025-04-30T18:57:56.139741", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53467, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-04-30T18:57:56.140899", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53475, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T18:57:56.298692", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53487, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T18:57:56.460093", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53495, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T18:57:56.614788", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53502, "data": "No data received"}
+{"timestamp": "2025-04-30T18:58:01.183962", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53536, "data": "JDWP-Handshake"}
+{"timestamp": "2025-04-30T18:59:47.296789", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53599, "data": "No data received"}
+{"timestamp": "2025-04-30T18:59:49.405905", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53602, "data": "No data received (timeout)"}
+{"timestamp": "2025-04-30T18:59:57.538771", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53645, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T18:59:57.539637", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53650, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-04-30T18:59:57.697663", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53656, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T18:59:57.855817", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53667, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T18:59:58.017342", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53674, "data": "No data received"}
+{"timestamp": "2025-04-30T19:00:02.556804", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53705, "data": "JDWP-Handshake"}
+{"timestamp": "2025-04-30T19:01:33.133135", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53760, "data": "No data received"}
+{"timestamp": "2025-04-30T19:01:35.246485", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53762, "data": "No data received (timeout)"}
+{"timestamp": "2025-04-30T19:01:42.884831", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53797, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-04-30T19:01:43.463160", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53823, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T19:01:43.620181", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53830, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T19:01:43.779641", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53836, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T19:01:43.936985", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53842, "data": "No data received"}
+{"timestamp": "2025-04-30T19:01:47.892000", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53855, "data": "JDWP-Handshake"}
+{"timestamp": "2025-04-30T19:04:32.234062", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53938, "data": "No data received"}
+{"timestamp": "2025-04-30T19:04:34.338850", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53941, "data": "No data received (timeout)"}
+{"timestamp": "2025-04-30T19:04:42.667678", "protocol": "RTSP", "ip": "172.19.16.155", "port": 53997, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-04-30T19:04:42.881299", "protocol": "RTSP", "ip": "172.19.16.155", "port": 54005, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T19:04:43.046060", "protocol": "RTSP", "ip": "172.19.16.155", "port": 54010, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T19:04:43.207287", "protocol": "RTSP", "ip": "172.19.16.155", "port": 54018, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T19:04:43.364476", "protocol": "RTSP", "ip": "172.19.16.155", "port": 54027, "data": "No data received"}
+{"timestamp": "2025-04-30T19:04:47.462738", "protocol": "RTSP", "ip": "172.19.16.155", "port": 54042, "data": "JDWP-Handshake"}
+{"timestamp": "2025-04-30T19:06:52.461706", "protocol": "RTSP", "ip": "172.19.16.155", "port": 54134, "data": "No data received"}
+{"timestamp": "2025-04-30T19:06:54.561584", "protocol": "RTSP", "ip": "172.19.16.155", "port": 54136, "data": "No data received (timeout)"}
+{"timestamp": "2025-04-30T19:07:02.188621", "protocol": "RTSP", "ip": "172.19.16.155", "port": 54174, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T19:07:02.344774", "protocol": "RTSP", "ip": "172.19.16.155", "port": 54180, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T19:07:02.396732", "protocol": "RTSP", "ip": "172.19.16.155", "port": 54182, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-04-30T19:07:02.502977", "protocol": "RTSP", "ip": "172.19.16.155", "port": 54189, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T19:07:02.658917", "protocol": "RTSP", "ip": "172.19.16.155", "port": 54196, "data": "No data received"}
+{"timestamp": "2025-04-30T19:07:07.201648", "protocol": "RTSP", "ip": "172.19.16.155", "port": 54227, "data": "JDWP-Handshake"}
+{"timestamp": "2025-04-30T19:51:43.724244", "protocol": "RTSP", "ip": "172.24.0.1", "port": 59550, "data": "No data received (timeout)"}
+{"timestamp": "2025-04-30T19:51:51.596067", "protocol": "RTSP", "ip": "172.24.0.1", "port": 52972, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-04-30T19:51:51.597956", "protocol": "RTSP", "ip": "172.24.0.1", "port": 52974, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T19:51:51.758157", "protocol": "RTSP", "ip": "172.24.0.1", "port": 52980, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T19:51:51.932939", "protocol": "RTSP", "ip": "172.24.0.1", "port": 52984, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-04-30T19:51:52.125181", "protocol": "RTSP", "ip": "172.24.0.1", "port": 52994, "data": "No data received"}
+{"timestamp": "2025-04-30T19:51:56.596691", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53004, "data": "JDWP-Handshake"}
+{"timestamp": "2025-05-01T05:46:09.901422", "protocol": "RTSP", "ip": "172.24.0.1", "port": 44348, "data": "No data received"}
+{"timestamp": "2025-05-01T05:46:12.012006", "protocol": "RTSP", "ip": "172.24.0.1", "port": 44352, "data": "No data received (timeout)"}
+{"timestamp": "2025-05-01T05:46:19.706909", "protocol": "RTSP", "ip": "172.24.0.1", "port": 56040, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T05:46:19.871043", "protocol": "RTSP", "ip": "172.24.0.1", "port": 56052, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T05:46:20.030625", "protocol": "RTSP", "ip": "172.24.0.1", "port": 56054, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T05:46:20.189674", "protocol": "RTSP", "ip": "172.24.0.1", "port": 56056, "data": "No data received"}
+{"timestamp": "2025-05-01T05:46:24.724261", "protocol": "RTSP", "ip": "172.24.0.1", "port": 56064, "data": "JDWP-Handshake"}
+{"timestamp": "2025-05-01T06:08:37.135253", "protocol": "RTSP", "ip": "172.24.0.1", "port": 39364, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:08:37.294904", "protocol": "RTSP", "ip": "172.24.0.1", "port": 39380, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:08:37.462842", "protocol": "RTSP", "ip": "172.24.0.1", "port": 39386, "data": "No data received"}
+{"timestamp": "2025-05-01T06:08:41.984753", "protocol": "RTSP", "ip": "172.24.0.1", "port": 37626, "data": "JDWP-Handshake"}
+{"timestamp": "2025-05-01T06:17:36.972726", "protocol": "RTSP", "ip": "172.24.0.1", "port": 48106, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-05-01T06:17:37.195336", "protocol": "RTSP", "ip": "172.24.0.1", "port": 48118, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:17:37.369098", "protocol": "RTSP", "ip": "172.24.0.1", "port": 48124, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:17:37.535109", "protocol": "RTSP", "ip": "172.24.0.1", "port": 48134, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:17:37.699064", "protocol": "RTSP", "ip": "172.24.0.1", "port": 48140, "data": "No data received"}
+{"timestamp": "2025-05-01T06:17:42.016642", "protocol": "RTSP", "ip": "172.24.0.1", "port": 51748, "data": "JDWP-Handshake"}
+{"timestamp": "2025-05-01T06:18:44.989639", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53720, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-05-01T06:18:45.261642", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53736, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:18:45.425377", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53750, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:18:45.590056", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53752, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:18:45.756594", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53766, "data": "No data received"}
+{"timestamp": "2025-05-01T06:18:49.551119", "protocol": "RTSP", "ip": "172.24.0.1", "port": 57884, "data": "JDWP-Handshake"}
+{"timestamp": "2025-05-01T06:19:43.328913", "protocol": "RTSP", "ip": "172.24.0.1", "port": 42454, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-05-01T06:19:43.651444", "protocol": "RTSP", "ip": "172.24.0.1", "port": 42458, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:19:43.812408", "protocol": "RTSP", "ip": "172.24.0.1", "port": 42470, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:19:43.966677", "protocol": "RTSP", "ip": "172.24.0.1", "port": 42486, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:19:44.129135", "protocol": "RTSP", "ip": "172.24.0.1", "port": 42498, "data": "No data received"}
+{"timestamp": "2025-05-01T06:19:48.061525", "protocol": "RTSP", "ip": "172.24.0.1", "port": 42504, "data": "JDWP-Handshake"}
+{"timestamp": "2025-05-01T06:20:29.688937", "protocol": "RTSP", "ip": "172.24.0.1", "port": 56790, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:20:29.856583", "protocol": "RTSP", "ip": "172.24.0.1", "port": 56800, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:20:30.018232", "protocol": "RTSP", "ip": "172.24.0.1", "port": 56816, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T06:20:30.175065", "protocol": "RTSP", "ip": "172.24.0.1", "port": 56822, "data": "No data received"}
+{"timestamp": "2025-05-01T06:20:34.504303", "protocol": "RTSP", "ip": "172.24.0.1", "port": 56832, "data": "JDWP-Handshake"}
+{"timestamp": "2025-05-01T07:13:46.220498", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53914, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T07:13:46.381903", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53926, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T07:13:46.542319", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53936, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T07:13:46.703979", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53952, "data": "No data received"}
+{"timestamp": "2025-05-01T07:13:47.132875", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53960, "data": "JDWP-Handshake\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0001\u0000\u0001\u0001"}
+{"timestamp": "2025-05-01T07:13:51.026156", "protocol": "RTSP", "ip": "172.24.0.1", "port": 40776, "data": "JDWP-Handshake"}
+{"timestamp": "2025-05-01T10:20:46.613125", "protocol": "RTSP", "ip": "172.24.0.1", "port": 51218, "data": "No data received"}
+{"timestamp": "2025-05-01T10:20:48.719313", "protocol": "RTSP", "ip": "172.24.0.1", "port": 51222, "data": "No data received (timeout)"}
+{"timestamp": "2025-05-01T10:20:56.695860", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53970, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T10:20:56.860429", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53980, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T10:20:57.026972", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53986, "data": "OPTIONS * RTSP/1.0\r\nCSeq: 1\r\n\r\n"}
+{"timestamp": "2025-05-01T10:20:57.185073", "protocol": "RTSP", "ip": "172.24.0.1", "port": 53990, "data": "No data received"}
+{"timestamp": "2025-05-01T10:21:01.433457", "protocol": "RTSP", "ip": "172.24.0.1", "port": 46518, "data": "JDWP-Handshake"}
